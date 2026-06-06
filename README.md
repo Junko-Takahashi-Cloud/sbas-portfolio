@@ -1,4 +1,5 @@
 # Sports Bowling Arena System（SBAS）構想
+![外観パース](https://github.com/Junko-Takahashi-Cloud/sbas-portfolio/blob/main/%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E3%83%9C%E3%82%A6%E3%83%AA%E3%83%B3%E3%82%B0%E5%A0%B4.png?raw=true)
 
 本プロジェクトは、競技ボウリングにおける  
 **「データ活用」「大会運営」「選手体験」「観客体験」** を向上させるための  
